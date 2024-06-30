@@ -1,9 +1,8 @@
 target_url = 'http://your_wordpress_site.com'
 
-# Example of running an exploit for WordPress
-module_name = 'unix/webapp/wp_admin_shell_upload'
+module_name = ''
 module_options = {
-    'RHOSTS': 'your_wordpress_site.com',
+    'RHOSTS': 'IP address',
     'TARGETURI': '/wordpress',
     'USERNAME': 'admin',
     'PASSWORD': 'password'
