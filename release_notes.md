@@ -412,7 +412,7 @@ v0.13
 
 
 Upcoming bugs
-/////////////
+//////////
 
 - JSON
 - AJAX
