@@ -22,7 +22,7 @@ New bugs exploitable on bee-box v1.6:
 
 
 v2.1
-****
+******
 
 Release date: 27/09/2014
 
