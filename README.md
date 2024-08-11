@@ -38,7 +38,7 @@ It includes:
 
 bWAPP is a PHP application that uses a MySQL database. It can be hosted on Linux and Windows using Apache/IIS and MySQL. It can be installed with WAMP or XAMPP.
 
-It's also possible to download our bee-box, a custom VM pre-installed with bWAPP.
+It's also possible to download our bee-box, a custom VM pre-installed with BWAPP.
 
 This project is part of the ITSEC GAMES project. ITSEC GAMES are a fun approach to IT security education. 
 IT security, ethical hacking, training and fun... all mixed together.
