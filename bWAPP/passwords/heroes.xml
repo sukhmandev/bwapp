@@ -20,7 +20,7 @@
 		<id>3</id>
 		<login>thor</login>
 		<password>Asgard</password>
-		<secret>Oh, no... this is Earth... isn't it?</secret>
+		<secret>Oh, no... this is Earth.... isn't it?</secret>
 		<movie>Thor</movie>
 		<genre>action sci-fi</genre>
 	</hero>
